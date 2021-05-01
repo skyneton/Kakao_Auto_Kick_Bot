@@ -1,5 +1,6 @@
+@echo off
 :run
 cls
-npm start
+node server
 timeout 5
 goto run
