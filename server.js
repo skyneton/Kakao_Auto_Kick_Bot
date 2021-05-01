@@ -1,0 +1,1 @@
+require("./folder/data")(require("./folder/bot"));
